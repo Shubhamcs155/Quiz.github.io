@@ -1,0 +1,73 @@
+ .heading {
+ 	text-align: center;
+ 	padding-top: 2%;
+ 	padding-bottom: 2%;
+ 	background-color: green;
+ 	color: yellow;
+ 	border-radius: 25px;
+ 	margin-bottom: 0.1%;
+ 	font-family: 'Montserrat', sans-serif;
+ }
+ .small_span{
+ 	font-size: 20px;
+ }
+ .instructions {
+ 	text-align: center;
+ 	background-color: black;
+ 	color: white;
+ 	font-family: 'Grenze Gotisch', cursive;
+ 	padding-top: 0.1%;
+ }
+ .Question_Containera1, .Question_Containera2, .Question_Containerb1, .Question_Containerb2 {
+ 	text-align: center;
+ 	border-radius: 10%;
+ 	font-family: 'Stylish', sans-serif;
+ }
+ .Question_Containera1 {
+ 	background-image: linear-gradient(#45a1a1, #86ebeb);
+ }
+
+ .Question_Containera2 {
+ 	background-image: linear-gradient(#86ebeb, #45a1a1);
+ }
+
+ .Question_Containerb1 {
+ 	background-image: linear-gradient(#5571ed, #787ef0);
+ }
+ 
+ .Question_Containerb2 {
+ 	background-image: linear-gradient(#787ef0, #5571ed);
+ }
+#label {
+	font-size: 135%;
+	font-weight: bolder;
+}
+.options {
+	font-size: 115%;
+}
+.result_button {
+	background-color: green;
+    border: 2px solid #336600;
+    color: white;
+    padding: 15px 32px;
+    font-size: 35px;
+
+}
+.result_button_div{
+	margin-top: 2%;
+	text-align: center;
+	margin-bottom: 2%;
+}
+.footer_para {
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	font-family: 'Grenze Gotisch', cursive;
+	font-size: 25px;
+}
+
+
+
+  
